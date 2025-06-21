@@ -1,4 +1,3 @@
-
 import Hero from "@/components/hero";
 import Main from "@/components/main";
 
@@ -14,7 +13,7 @@ export default function Home() {
             Consectetur, molestiae?
           </p>
         </div>
-        <Main/>
+        <Main />
       </div>
     </div>
   );
